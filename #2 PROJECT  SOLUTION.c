@@ -839,8 +839,8 @@ int Display_menu()  // Display game menu
     while (1)
     {
         system("cls");
-        printf("\n\t< ***** New Game ***** >");
-        printf("\n\n1 - Play With Friends(%c)",2);
+        printf("\n\t< ***** Tic Tac Toe Game ***** >");
+        printf("\n\n1 - Play With Friends(%c)",3);
         printf("\n2 - Play With Smart Computer (%c)",2);
         printf("\n3 - Play With Evil Computer (%c)",2);
         printf("\n4 - Exit (%c)",1);
